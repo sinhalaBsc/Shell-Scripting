@@ -1,0 +1,15 @@
+
+to set bash header to identify
+#! /bin/bash
+
+to see file details
+$ ls -al
+
+to get permission to run bash file
+$ chmod +x fileName.sh
+
+to run created bash file
+$ ./fileName.sh
+
+to print in bash file
+echo "Hello World"
